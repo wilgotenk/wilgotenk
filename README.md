@@ -1,6 +1,6 @@
 # Hi 👋
 
-- 🙋‍♂️ I’m Wildan Amru Primarifki
+- 🙋‍♂️ I’m Wildan Amru 
 - 🎓 I'm an Informatics Student
 - 📑 I’m currently learning Data Science, Data Analyst, and Machine Learning
 
